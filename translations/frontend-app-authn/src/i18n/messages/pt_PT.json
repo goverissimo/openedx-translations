@@ -169,7 +169,7 @@
   "reset.password.success": "A sua palavra-passe foi redefinida. Inicie sessão na sua conta.",
   "rate.limit.error": "Ocorreu um erro devido a demasiados pedidos. Por favor, tente novamente após algum tempo.",
   "start.learning": "Começar a aprender",
-  "with.site.name": "com {siteName}",
+  "with.site.name": "com a {siteName}",
   "your.career.turning.point": "O ponto de viragem na sua carreira",
   "is.here": "está aqui.",
   "welcome.to.platform": "Bem-vindo/a {siteName}, {fullName}!",
