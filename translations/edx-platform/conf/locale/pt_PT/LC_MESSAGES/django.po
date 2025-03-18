@@ -3591,7 +3591,7 @@ msgstr "Saiba mais sobre {platform_name}"
 #: lms/djangoapps/certificates/views/webview.py:231
 #, python-brace-format
 msgid "Learn with {platform_name}"
-msgstr "Aprender com {platform_name}"
+msgstr "Aprender com a {platform_name}"
 
 #: lms/djangoapps/certificates/views/webview.py:233
 #, python-brace-format
